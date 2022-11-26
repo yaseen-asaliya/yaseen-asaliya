@@ -1,10 +1,9 @@
 ### Hi there 👋
 Student software engineer who is enthusiastic about learning new skills and technologies. 
-
+<br>
+- 🔭 I’m currently studying software engineering
 - 💬 You can find me on LinkedIn by clicking <a href="https://www.linkedin.com/in/yaseen-asaliya-8b0675226/">here</a>
-
-
-
+- 📫 Reach me on yaseen.asaliya22@gmail.com
 <!--
 **yaseen-asaliya/yaseen-asaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
