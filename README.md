@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Student software engineer who is enthusiastic about learning new skills and technologies. 
 <!--
 **yaseen-asaliya/yaseen-asaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
