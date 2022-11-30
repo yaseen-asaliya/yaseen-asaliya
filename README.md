@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a last year's university student who is enthusiastic about learning new skills and technologies.<br>
-- 🔭 I’m currently studying software engineering
+- 🔭 I’m currently studying Software Engineering at NNU
 - 💬 You can find me on LinkedIn by clicking <a href="https://www.linkedin.com/in/yaseen-asaliya-8b0675226/">here</a>
 - 📫 Reach me on yaseen.asaliya22@gmail.com
 <!--
