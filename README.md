@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a last year's university student who is enthusiastic about learning new skills and technologies.<br>
+Motivated Software Engineering graduate with strong programming skills, adept at problem-solving, and quick to learn. Effective communicator and collaborator, passionate about innovative software solutions and staying current with industry trends. Demonstrated proficiency as a backend developer, contributing to robust server-side applications.
 - 🔭 I’m currently studying Software Engineering at NNU
 - 💬 You can find me on LinkedIn <a href="https://www.linkedin.com/in/yaseen-asaliya-8b0675226/">here</a>
 - 📫 Reach me on yaseen.asaliya22@gmail.com
