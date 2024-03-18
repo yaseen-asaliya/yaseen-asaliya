@@ -4,6 +4,7 @@ Motivated Software Engineering graduate with strong programming skills, adept at
 - 💬 You can find me on <a href="https://www.linkedin.com/in/yaseen-asaliya-8b0675226/">LinkedIn</a>
 - 🤔 Check out my LeetCode [profile](https://leetcode.com/yaseenasaliya/).
 - 📫 Reach me on yaseen.asaliya22@gmail.com
+- ⚡ Check out my [CV](https://docs.google.com/document/d/13gqVn5uPjPx10lk-Urgq6SPkvSoVIW45zHSS10CZNcc/edit?usp=sharing)
   
 <!--
 **yaseen-asaliya/yaseen-asaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
