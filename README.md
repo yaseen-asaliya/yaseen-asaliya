@@ -2,7 +2,9 @@
 Motivated Software Engineering graduate with strong programming skills, adept at problem-solving, and quick to learn. Effective communicator and collaborator, passionate about innovative software solutions and staying current with industry trends. Demonstrated proficiency as a backend developer, contributing to robust server-side applications.
 - 🔭 Software Engineer
 - 💬 You can find me on <a href="https://www.linkedin.com/in/yaseen-asaliya-8b0675226/">LinkedIn</a>
+- Check out my LeetCode profile [here](https://leetcode.com/yaseenasaliya/) to see my problem-solving skills.
 - 📫 Reach me on yaseen.asaliya22@gmail.com
+- 
 <!--
 **yaseen-asaliya/yaseen-asaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
